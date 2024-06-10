@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - btn
+  - Stage
+  - Wall
+  - Time
+  - Win
+  - Close
+  - NextLevel
+  - SoundManager
+  - Lock
+  - LevelNumber
+  - Star
+  - Coins
+  - UImanager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Time
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backdround
+    uniqueID: 579227271
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ToolBar
+    uniqueID: 2196279981
+    locked: 0
+  - name: Time
+    uniqueID: 4000999215
+    locked: 0
+  - name: Line
+    uniqueID: 2746616889
+    locked: 0
+  - name: Puzzle Button
+    uniqueID: 1844066469
+    locked: 0
